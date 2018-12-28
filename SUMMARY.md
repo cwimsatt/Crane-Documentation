@@ -51,6 +51,7 @@
 * [Introduction to G-Code Commands](advanced-tuning-m3d-crane-series/beginner-introduction-to-g-code-commands.md)
 * [Duet Web Control Bed Leveling Assistant](advanced-tuning-m3d-crane-series/duet-web-control-bed-leveling-assistant.md)
 * [Important G-Code Commands](advanced-tuning-m3d-crane-series/important-g-code-commands.md)
+* [Pro Tuning Guide](advanced-tuning-m3d-crane-series/crane-documentation-advanced-tuning-m3d-crane-series-pro-tuning-guide.md.md)
 * [Temperature Calibration](advanced-tuning-m3d-crane-series/temperature-calibration.md)
 * [Adjusting Homing Macros](advanced-tuning-m3d-crane-series/adjusting-homing-macros.md)
 * [Filament Extrusion Rate](advanced-tuning-m3d-crane-series/filament-extrusion-rate.md)
