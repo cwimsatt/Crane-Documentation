@@ -1,7 +1,3 @@
----
-description: This page will guide you through your First Print!!
----
-
 # First Print
 
 Now that we've covered the very basics on the Duet Web Control Interface, and ran the Bed Leveling Assistant it's time to GET PRINTING. 

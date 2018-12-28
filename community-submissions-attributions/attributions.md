@@ -1,9 +1,3 @@
----
-description: >-
-  Gives attribution to the creators of the models printed by the M3D Crane
-  Series Team
----
-
 # Attributions
 
 The following is a list of all the models used by the M3D Crane Series teams along with their attributions. Links are provided should you choose to re-create these models. 

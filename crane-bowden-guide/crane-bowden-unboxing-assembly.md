@@ -1,7 +1,3 @@
----
-description: Unboxing and Assembling your M3D Crane Series Printer
----
-
 # Unboxing/Assembly
 
 

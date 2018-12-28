@@ -1,7 +1,3 @@
----
-description: Leveling the M3D Crane Series printer via the LCD menu
----
-
 # Bed Leveling
 
 ## **Leveling your M3D Crane Series printer via the LCD menu:** 

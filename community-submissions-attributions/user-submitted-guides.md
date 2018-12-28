@@ -1,9 +1,3 @@
----
-description: >-
-  We enjoy collaborating with our users as they create content for the benefit
-  of our community!
----
-
 # User Submitted Guides
 
 ## User Created Video Guides:

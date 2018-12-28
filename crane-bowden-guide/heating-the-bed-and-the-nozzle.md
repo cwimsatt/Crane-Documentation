@@ -1,9 +1,3 @@
----
-description: >-
-  This page will go over how to heat the bed and the nozzle using Duet Web
-  Control
----
-
 # Heating the Bed and the Nozzle
 
 {% hint style="info" %}

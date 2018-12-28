@@ -1,9 +1,3 @@
----
-description: >-
-  In this page you'll get a basic understanding of the Duet Web Control and set
-  up your first print
----
-
 # First look at Duet Web Control
 
 ## Getting to know your Duet Web Control Interface:

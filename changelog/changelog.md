@@ -1,9 +1,3 @@
----
-description: >-
-  The purpose of this document is to track known issues, feature additions, bug
-  reports and resolutions.
----
-
 # Changelog
 
 ## October 30, 2018

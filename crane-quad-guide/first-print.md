@@ -1,7 +1,3 @@
----
-description: This page will show how to upload and print using Duet Web Control Interface.
----
-
 # First Print
 
 
