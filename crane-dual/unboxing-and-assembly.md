@@ -109,6 +109,16 @@ The Spool Holder is designed so that the End Cap secures the spool and prevents 
 
 Once your Spool Holder is fully assembled simply slip the T-nuts into the grove on the top rail of your M3D Crane Dual printer and tighten securely.
 
+{% hint style="info" %}
+Occasionally things can be damaged during shipping, and or come loose. If you notice that one of your end-stops has broken, you can swap any of the others to replace the Z end-stop as this one is the most important.  
+{% endhint %}
+
+![Endstop damage during shipping ](../.gitbook/assets/20181227_184025.jpg)
+
+##  Additional information:
+
+After assembly you may have some questions that might be further discussed in our[ Pro Tuning Guide](https://crane.printm3d.com/advanced-tuning-m3d-crane-series/tuning-guide).
+
 {% hint style="danger" %}
 Prior to exiting this section, please double check all connections, and place your  M3D Crane Dual on a flat surface. Ensure the Power Switch is Off\(O\), double check that your voltage is set appropriately for YOUR area\(consult local authorities if you are unsure\). **Failure to do this can irreparably harm the electronics in your printer.**
 {% endhint %}
