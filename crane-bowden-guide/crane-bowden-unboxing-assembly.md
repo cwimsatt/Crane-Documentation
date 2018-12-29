@@ -117,5 +117,15 @@ Once your M3D Crane Bowden is complete it should look like this:
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
+{% hint style="info" %}
+Occasionally things can be damaged during shipping, and or come loose. If you notice that one of your end-stops has broken, you can swap any of the others to replace the Z end-stop as this one is the most important.  
+{% endhint %}
+
+![Endstop damage during shipping ](../.gitbook/assets/20181227_184025.jpg)
+
+##  Additional information:
+
+After assembly you may have some questions that might be further discussed in our[ Pro Tuning Guide](https://crane.printm3d.com/advanced-tuning-m3d-crane-series/tuning-guide).
+
 Congratulations!! You have completed the Assembly of your M3D Crane Bowden Printer!! In the next section you will learn how to include your new M3D Crane Bowden into your existing network, or set up a network from scratch.  
 
