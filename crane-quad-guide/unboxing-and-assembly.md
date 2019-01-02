@@ -123,6 +123,16 @@ After assembly you may have some questions that might be further discussed in ou
 Prior to exiting this section, please double check all connections, and place your  M3D Crane Quad on a flat surface. Ensure the Power Switch is Off\(O\), double check that your voltage is set appropriately for YOUR area\(consult local authorities if you are unsure\). **Failure to do this can irreparably harm the electronics in your printer.**
 {% endhint %}
 
+## QuadFusion Print Head: Replacing the Nozzle
+
+Upon shipping your M3D Crane Quad's QuadFusion print head will be fully assembled. Should you wish to replace the nozzle, or should you have taken apart the print head for any reason, follow this Video Guide closely in order to correctly re-assemble your QuadFusion print head. 
+
+{% hint style="info" %}
+Pay close attention to the Rotational Alignment of the Nozzle upon re-assembly. 
+{% endhint %}
+
+{% embed url="https://youtu.be/zgYq8tRjoFM" %}
+
 Once your M3D Crane Quad is complete it should look like this:
 
 ![](../.gitbook/assets/quad.png)
