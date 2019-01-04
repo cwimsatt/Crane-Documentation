@@ -117,6 +117,8 @@ Once your M3D Crane Bowden is complete it should look like this:
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
+## Endstop Damage:
+
 {% hint style="info" %}
 Occasionally things can be damaged during shipping, and or come loose. If you notice that one of your end-stops has broken, you can swap any of the others to replace the Z end-stop as this one is the most important.  
 {% endhint %}
