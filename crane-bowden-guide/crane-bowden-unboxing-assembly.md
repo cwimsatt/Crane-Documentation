@@ -22,10 +22,6 @@ Remove the bolts at the bottom of each upright rail, as shown below. Setting the
 
 ![](../.gitbook/assets/20181004_022851-0.jpg)
 
-In addition to the tool and bolts you see above, you should have received a Micro SD card, a Blue Micro SD card to USB adapter and a 7mm tool to fit the nuts under the print bed. Check the SD card slot on the right side of the printer if your SD card has not arrived inside a separate case.
-
-The Crane Series of printers are unique in that they are built with a Duet Maestro board. The Duet board uses the information on the SD card to operate, in a sense the SD card that goes in the slot on the Duet acts like it's hard drive. It is for this reason that should you desire to use an SD card to move your gcode to your printer instead of using Duet Web Control, it's recommended to purchase a second micro SD card and use the SD card slot on the back of the LCD screen. 
-
 {% hint style="warning" %}
 Inspect your M3D Crane Bowden for any damage that may have occurred during shipping. Every precaution has been made to prevent this, however it is advisable to give all the components a thorough inspection before operation. If any issues are discovered, document the damage by taking an image of the affected area and contact M3D immediately.
 {% endhint %}
@@ -126,6 +122,14 @@ Occasionally things can be damaged during shipping, and or come loose. If you no
 {% endhint %}
 
 ![Endstop damage during shipping ](../.gitbook/assets/20181227_184025.jpg)
+
+## Before powering on your M3D Crane Series Printer:
+
+You should have received along with your printer, a micro SD card as well as a blue micro SD card adapter. Check the SD card slot on the right side of your Crane Series printer to see if yours was shipped with the SD card already in place. If your SD card is already in place, remove it and replace it before powering it on. The SD card may have been shifted or impacted during shipping and turning on the power with the SD card askew inside could lead to damage.  
+
+If your SD card has arrived in a small separate case, simply remove the SD card from it's package and place it into the SD card slot on the right side of your Crane Series printer. 
+
+The Crane Series of printers are unique in that they are built with a Duet Maestro board. The Duet board uses the information on the SD card to operate, in a sense the SD card that goes in the slot on the Duet acts like it's hard drive. It is for this reason that should you desire to use an SD card to move your gcode to your printer instead of using Duet Web Control, it's recommended to purchase a second micro SD card and use the SD card slot on the back of the LCD screen.
 
 ##  Additional information:
 
