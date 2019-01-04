@@ -109,19 +109,13 @@ The Spool Holder is designed so that the End Cap secures the spool and prevents 
 
 Once your Spool Holder is fully assembled simply slip the T-nuts into the grove on the top rail of your M3D Crane Quad printer and tighten securely.
 
-
+## Endstop Damage:
 
 {% hint style="info" %}
 Occasionally things can be damaged during shipping, and or come loose. If you notice that one of your end-stops has broken, you can swap any of the others to replace the Z end-stop as this one is the most important.  
 {% endhint %}
 
 ![Endstop damage during shipping ](../.gitbook/assets/20181227_184025.jpg)
-
-After assembly you may have some questions that might be further discussed in our[ Pro Tuning Guide](https://crane.printm3d.com/advanced-tuning-m3d-crane-series/tuning-guide).
-
-{% hint style="danger" %}
-Prior to exiting this section, please double check all connections, and place your  M3D Crane Quad on a flat surface. Ensure the Power Switch is Off\(O\), double check that your voltage is set appropriately for YOUR area\(consult local authorities if you are unsure\). **Failure to do this can irreparably harm the electronics in your printer.**
-{% endhint %}
 
 ## Before powering on your M3D Crane Series Printer:
 
@@ -141,9 +135,17 @@ Pay close attention to the Rotational Alignment of the Nozzle upon re-assembly.
 
 {% embed url="https://youtu.be/zgYq8tRjoFM" %}
 
+## Additional information:
+
+After assembly you may have some questions that might be further discussed in our[ Pro Tuning Guide](https://crane.printm3d.com/advanced-tuning-m3d-crane-series/tuning-guide).
+
 Once your M3D Crane Quad is complete it should look like this:
 
 ![](../.gitbook/assets/quad.png)
 
 Congratulations on completing the assembly of your M3D Crane Quad printer!! Please continue on to the next section where you will learn how to add your M3D Crane Quad to your existing network, or set up a network from scratch.   
+
+{% hint style="danger" %}
+Prior to exiting this section, please double check all connections, and place your  M3D Crane Quad on a flat surface. Ensure the Power Switch is Off\(O\), double check that your voltage is set appropriately for YOUR area\(consult local authorities if you are unsure\). **Failure to do this can irreparably harm the electronics in your printer.**
+{% endhint %}
 
