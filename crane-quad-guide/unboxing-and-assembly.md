@@ -129,11 +129,11 @@ The Crane Series of printers are unique in that they are built with a Duet Maest
 
 Upon shipping your M3D Crane Quad's QuadFusion print head will be fully assembled. Should you wish to replace the nozzle, or should you have taken apart the print head for any reason, follow this Video Guide closely in order to correctly re-assemble your QuadFusion print head. 
 
+{% embed url="https://youtu.be/qIrvyc5NEUs" %}
+
 {% hint style="info" %}
 Pay close attention to the Rotational Alignment of the Nozzle upon re-assembly. 
 {% endhint %}
-
-{% embed url="https://youtu.be/zgYq8tRjoFM" %}
 
 ## Additional information:
 
