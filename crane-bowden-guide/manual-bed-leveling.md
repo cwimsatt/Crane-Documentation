@@ -79,5 +79,13 @@ Of course  you may wish to run through the Basic Bed Leveling process several ti
 **NOTE: If the paper has little or no resistance, or is so tight it threatens to tear rather than be moved, repeat the Basic Bed Leveling process over again until the desired results are achieved.**   
 {% endhint %}
 
+## Manual Bed Leveling:
+
+In the video below there are detailed instructions on how to manually level the print bed of your M3D Crane Series Printer, as well as instructions on how to adjust your Z endstop. 
+
+{% embed url="https://youtu.be/HsCBaC1FupU" %}
+
+
+
 Once you have mastered the art of Bed Leveling, it'll be time to tackle the printers basic controls such as heating the print bed and the nozzle. These features are covered in the next section. 
 
