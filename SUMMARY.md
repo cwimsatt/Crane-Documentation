@@ -56,6 +56,7 @@
 * [Adjusting Homing Macros](advanced-tuning-m3d-crane-series/adjusting-homing-macros.md)
 * [Filament Extrusion Rate](advanced-tuning-m3d-crane-series/filament-extrusion-rate.md)
 * [ABS-R Success Guide](advanced-tuning-m3d-crane-series/abs-r-success-guide.md)
+* [In-Depth Z-System Sequencing and Alignment](advanced-tuning-m3d-crane-series/in-depth-z-system-sequencing-and-alignment.md)
 
 ## Community Submissions/Attributions
 
