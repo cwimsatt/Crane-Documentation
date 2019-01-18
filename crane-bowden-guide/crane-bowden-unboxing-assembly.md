@@ -60,7 +60,7 @@ In order to ensure nothing is damaged during shipping, and furthermore during th
 
 ![Z endstop](../.gitbook/assets/image1.jpg)
 
-The first step to moving your Z-endstop to an appropriate height is to examine the exposed bolts below the Y-carriage and to tighten/loosen all four of your bed nuts so that only about 8-10 threads are exposed on each.  You can see in this photograph a bolt that has been tightened to its recommended position. Use the included wrench or your own 6mm printed hex adjustment tool to ensure each bolt is adjusted to approximately the same position.
+The first step to moving your Z-endstop to an appropriate height is to examine the exposed bolts below the Y-carriage and to tighten/loosen all four of your bed nuts so that only about 8-10 threads are exposed on each.  You can see in this photograph a bolt that has been tightened to its recommended position. Use your own 7mm or 1/4th inch wrench to ensure each bolt is adjusted to approximately the same position.
 
 ![8-10 threads exposed](../.gitbook/assets/image3.jpg)
 
