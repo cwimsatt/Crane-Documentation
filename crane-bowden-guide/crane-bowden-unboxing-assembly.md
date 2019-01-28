@@ -52,6 +52,12 @@ After making the connections, use the provided bolts and Allen Key to secure the
 
 ![](../.gitbook/assets/20181004_025605.jpg)
 
+Should you find that your LCD cables are not labeled, simply determine which cable is **shortest**, that will be the cable to be connected to **EXP1**. 
+
+![EXP1](../.gitbook/assets/lcd2.png)
+
+Connect the short cable to EXP1, and proceed to the next step. 
+
 ## Z-endstop positioning:
 
 Be sure your M3D Crane is powered off and/or unplugged before you begin this step. 
