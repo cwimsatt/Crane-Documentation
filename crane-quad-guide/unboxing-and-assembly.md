@@ -48,15 +48,21 @@ Connect the two gray ribbon cables labeled '1' and '2' and connect them to their
 
 ![](../.gitbook/assets/20181004_025303.jpg)
 
+Should you find that your LCD cables are not labeled, simply determine which cable is **shortest**, that will be the cable to be connected to **EXP1**. 
+
+![Determine which is Shortest ](../.gitbook/assets/lcd22.jpg)
+
+![EXP1](../.gitbook/assets/lcd2.png)
+
+Connect the **short cable to EXP1**, plug the **longer** **cable into EXP2**, and proceed to the next step. 
+
+![Plug the Short Cable into EXP1 and the Long Cable in EXP2](../.gitbook/assets/lcd1.jpg)
+
 After making the connections, use the provided bolts and Allen Key to secure the LCD to the front of the M3D Crane Quad.
 
 ![](../.gitbook/assets/20181004_025605.jpg)
 
-Should you find that your LCD cables are not labeled, simply determine which cable is **shortest**, that will be the cable to be connected to **EXP1**. 
 
-![EXP1](../.gitbook/assets/lcd2.png)
-
-Connect the short cable to EXP1, and proceed to the next step. 
 
 ## Z-endstop positioning:
 
