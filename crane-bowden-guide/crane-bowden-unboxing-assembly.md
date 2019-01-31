@@ -14,9 +14,9 @@ After removing your M3D Crane Bowden from the box, remove all the plastic wrappi
 
 Remove the bolts at the bottom of each upright rail, as shown below. Setting them aside briefly:
 
-![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2822%29.png)
+![note the bolts sticking out of the rails](../.gitbook/assets/image%20%2823%29.png)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 
 
@@ -129,7 +129,7 @@ Prior to exiting this section, please double check all connections, and place yo
 
 Once your M3D Crane Bowden is complete it should look like this:
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 ## Endstop Damage:
 
