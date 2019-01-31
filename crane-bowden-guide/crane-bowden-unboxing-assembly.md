@@ -3,7 +3,7 @@
 
 
 {% hint style="warning" %}
-The M3D Crane Bowden contains sensitive electronics, delicate mechanical parts, and an electrical heating system. Please exercise all applicable safety precautions and follow this guide closely to avoid damage to your M3D Crane Bowden, to avoid injury to yourself or others, and insure proper operation.
+The M3D Crane Bowden contains sensitive electronics, delicate mechanical parts, and an electrical heating system. Please exercise all applicable safety precautions and follow this guide closely to avoid damage to your M3D Crane Bowden, to avoid injury to yourself or others, and insure proper operation. Check your Local Supply Voltage and set your printers Voltage accordingly, or risk damage to your printer. 
 {% endhint %}
 
 ## Setting up after unboxing your printer: <a id="gmail-setting-up-after-un-boxing-your-printer"></a>
