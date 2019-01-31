@@ -54,3 +54,5 @@ Please read through all the warnings as they may save you from making a mistake 
 
     The Duet relies on its microSD card to serve as memory, storage for the LCD menu structure, duet webhost, and basic configurations. Without this card you can not connect over ethernet or use the LCD, however USB will still work. We do not recommend removing it. There is an SD card slot under the LCD providing a card slot physically moving print Gcode files, or use the web interface to upload Gcodes.
 
+15. It should be noted that each Crane Series printer has a Voltage switch on the right hand side of the machine. For operation in the US the voltage must be set to 115.  
+
