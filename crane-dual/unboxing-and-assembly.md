@@ -94,6 +94,14 @@ Manually raise your print head by rotating the Z axis and now you are ready to p
 
 In order to assure your M3D Crane Series printer maintains an accurate bed level after following the [Bed Leveling](https://crane.printm3d.com/~/edit/drafts/-LTi556ASBKSVfOwPujM/crane-bowden-guide/manual-bed-leveling) section of this guide it may be necessary to make further adjustments to the Z endstop position. Maneuvering the Z endstop in conjunction with following the Bed Leveling guide will lead to a more accurate and level print bed.  
 
+## X Bracket Alignment and tightening:
+
+Should you notice your x bracket, the plate attaching the print head to the x axis is loose OR too tight follow the instructions in the pro-tuning guide to learn how to loosen or tighten the eccentric nuts that secure the x bracket to it's axis. 
+
+{% embed url="https://crane.printm3d.com/~/edit/drafts/-LYYIV5XAfyVNViXRJW3/advanced-tuning-m3d-crane-series/tuning-guide\#x-axis" %}
+
+Should your x bracket appear warped or bent, please be sure to check that the eccentric nuts are not too tight. It should be secure enough so that then print head doesn't move around during printing about 1/16-1/12th turn extra past this point on the eccentric nuts should be sufficient any tighter could result in the appearance of warping or bending of the x bracket. Loosing these eccentric nuts should remedy this.
+
 ## Spool Holder:
 
 The M3D Crane Dual includes 2 spool holders. One is a 3D printed Spool Holder, designed to hold the 4 smaller spools of 3DInk Filament necessary to take full advantage of it's dual color/material capabilities and the other Spool Holder included is better suited to hold the larger spools of 3DInk Filament. Here we show how to assemble the larger of the spool holders. 
