@@ -1,14 +1,14 @@
 # First Print
 
-
-
 Now that we've covered the very basics on the Duet Web Control Interface, and ran the Bed Leveling Assistant it's time to GET PRINTING. 
 
 ## Test Prints: print the test prints first
 
 Before you start slicing and printing your own models it is highly recommended that you print the Test Prints that come pre-loaded for your M3D Crane Series printer. To ensure that your M3D Crane Series printer is operating exactly as intended, we've included several Test Prints that have been created in order to ensure optimal functionality. These test prints are already sliced and ready to go. You can access the Test Prints via the LCD screen Menu.
 
-Be sure to use the Sample Filament that came with your M3D Crane Series printer for your Test Print!!
+{% hint style="warning" %}
+While it is necessary to use CMYK filament in order to use the Crane Quad's color mixing function, it's NOT necessary to use CMYK filament at all times. During the first few calibration prints, as with all printers SOME experimentation is to be expected and you may go through filament while you are getting to know your new printer. We suggest using a filament you are most comfortable with to start. Our test prints have however been sliced with ABS-R in mind.   
+{% endhint %}
 
 ### To access the Test Prints: <a id="to-access-the-test-prints"></a>
 
