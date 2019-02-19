@@ -29,12 +29,29 @@ There are a few full color models available online already and you may wish to s
 
 If you already have a model in mind, but it's not already separated or prepared for color printing you will need to do so yourself using MeshMixer or Blender. You will need to select and separate the different sections of your model into separate facegroups, or shells and save them all separately. 
 
-Depending on your slicers capabilities, you may be able to assign color to each separate part of your assembled model. You may need to utilize a tool such as MeshMixer or Blender however to assign colors or texture maps to your model.
+Depending on your slicers capabilities, you may be able to assign color to each separate part of your assembled model. You may need to utilize a tool such as MeshMixer or Blender however to assign colors or texture maps to your model.Within your slicer you will then assign an extruder to each of the color sections of your model. Depending on the slicer, you may be able to assign a color to each extruder. This could be the natural color of the filament or in some slicers you'll be able to assign a mixed color. Once you are happy with the colors you have assigned to each extruder, you will need to color your model. Simply make sure you assign the extruder with the color you want, to the section of the model that corresponds.  
 
-Within your slicer you will then assign an extruder to each of the color sections of your model. Depending on the slicer, you may be able to assign a color to each extruder. This could be the natural color of the filament or in some slicers you'll be able to assign a mixed color. Once you are happy with the colors you have assigned to each extruder, you will need to color your model. Simply make sure you assign the extruder with the color you want, to the section of the model that corresponds.    
-****
+## **Voxelizer: A most capable color mixing slicer**
 
-#### **Please return soon for more in depth and up to date information as we ready more tools to enable your M3D Crane QuadFusion to realize it’s full color mixing potential.**    
+As we pioneer color mixing technology, we rely on other services and software to rise to the challange and innovate along side us. One of the more reliable and easiest to use slicer for color mixing out ther is Voxelizer. They offer a free trial period as well as very reasonable subscruption fees. It's by far the best slicer for the job of color mixing there is currently. We reccomned downloading Voxelizer and experimenting with the slicer to experience it for yourself. 
+
+{% embed url="https://voxelizer.com/" %}
+
+When you download and set up your Voxelizer account you will see that our M3D Crane Seris printers already have a printer profile. 
+
+![](../.gitbook/assets/set-up.PNG)
+
+![](../.gitbook/assets/set-up2.PNG)
+
+You can choose from each of the three Crane Series models, and those profiles will automatically contain the standard settings for each of the Crane Series printers, so you will not have to go through each setting yourself. 
+
+We have some User Submitted videos on Voxelizer here:
+
+{% embed url="https://www.youtube.com/watch?v=7Q91v6DK9gc&t=11s" %}
+
+{% embed url="https://www.youtube.com/watch?v=0dmPRjeNWpk" %}
+
+**Please return soon for more in depth and up to date information as we ready more tools to enable your M3D Crane Quad-fusion to realize it’s full color mixing potential.**    
 
 Now that we've covered the basics of finding, coloring, and slicing your 3D models, you are ready to make your first print using the M3D Crane Quad printer! The next section will guide you through your first print!    
 
