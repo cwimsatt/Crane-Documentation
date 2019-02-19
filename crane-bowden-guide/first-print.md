@@ -7,7 +7,7 @@ Now that we've covered the very basics on the Duet Web Control Interface, and ra
 Before you start slicing and printing your own models it is highly recommended that you print the Test Prints that come pre-loaded for your M3D Crane Series printer. To ensure that your M3D Crane Series printer is operating exactly as intended, we've included several Test Prints that have been created in order to ensure optimal functionality. These test prints are already sliced and ready to go. You can access the Test Prints via the LCD screen Menu.  
 
 {% hint style="warning" %}
-Be sure to use the Sample Filament that came with your M3D Crane Series printer for your Test Print!!  
+It's recommended when setting up any printer for the first time to expect SOME experimentation in order to get to know your printer. This may consume filament in the process, so we advise you use a filament you are most comfortable with, however our test prints have been sliced using ABS-R. 
 {% endhint %}
 
 ### To access the Test Prints:
