@@ -98,7 +98,7 @@ In order to assure your M3D Crane Series printer maintains an accurate bed level
 
 Should you notice your x bracket, the plate attaching the print head to the x axis is loose OR too tight follow the instructions in the pro-tuning guide to learn how to loosen or tighten the eccentric nuts that secure the x bracket to it's axis. 
 
-{% embed url="https://crane.printm3d.com/~/edit/drafts/-LYYIV5XAfyVNViXRJW3/advanced-tuning-m3d-crane-series/tuning-guide\#x-axis" %}
+[https://crane.printm3d.com/advanced-tuning-m3d-crane-series/tuning-guide](https://crane.printm3d.com/advanced-tuning-m3d-crane-series/tuning-guide)
 
 Should your x bracket appear warped or bent, please be sure to check that the eccentric nuts are not too tight. It should be secure enough so that then print head doesn't move around during printing about 1/16-1/12th turn extra past this point on the eccentric nuts should be sufficient any tighter could result in the appearance of warping or bending of the x bracket. Loosing these eccentric nuts should remedy this.
 
