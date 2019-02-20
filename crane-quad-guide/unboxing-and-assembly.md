@@ -104,7 +104,7 @@ Should your x bracket appear warped or bent, please be sure to check that the ec
 
 ## Spool Holder:
 
-The M3D Crane Quad includes 2 spool holders. One is a 3D printed Spool Holder, designed to hold the 4 smaller spools of 3DInk Filament necessary to take full advantage of it's color mixing capabilities and the other Spool Holder included is better suited to hold the larger spools of 3DInk Filament. Here we show how to assemble the larger of the spool holders. 
+The Spool Holder that comes with the Crane Quad, is still the default regular 1 large size spool, holder. The First Gen Quads did come with a 3D printed spool holder that was made to hold the 4 smaller sized CMYK filament spools, however that design has been discontinued. We have since re-worked it and created a much better design for those small spools. This section detalis how to put together your standard, large spool, holder.  
 
 ![Spool Holder for larger spools of 3DInk Filament](../.gitbook/assets/spool5.jpg)
 
@@ -130,6 +130,18 @@ The Spool Holder is designed so that the End Cap secures the spool and prevents 
 ![Fully Assembled Spool Holder](../.gitbook/assets/spool4.jpg)
 
 Once your Spool Holder is fully assembled simply slip the T-nuts into the grove on the top rail of your M3D Crane Quad printer and tighten securely.
+
+## Crane Quad Spool Holder:
+
+As stated above, the first few Crane Quad's did come with a rather flimsy 3D printed spool holder, wich was designed to hold all 4 of the smaller CMYK filament spools. This design has been upgraded but the 3D printed spool holder is NO LONGER included with the printer. We DO have the STL file for the updated spool holder design however, you may download the STL, slice it, and print it to your own specifications.
+
+This new Spool Holder design is much more simple. It's a SINGLE small spool holder, which is meant to slip into the groove in the top rail of your Crane Series printer. You can print just one, however we do recommend you print up to 4. Having the Spool Holders as singles allows for more mobility, you can now move each spool holder along the axis so as to help control the filament's path to the Quad print head.  
+
+![Single Small Spool Holder](../.gitbook/assets/sphimage.PNG)
+
+It is not necessary to print the Spool Holder using CMYK filament, in fact it's recommended you use the spool holder as one of your first "test prints". This will allow you to accurately calibrate your machine, make sure it's level and is printing properly using a filament you are most comfortable with such as a generic PLA for example. 
+
+{% file src="../.gitbook/assets/078802\_b1\_crane\_spool\_holder-1.stl" %}
 
 ## Endstop Damage:
 
