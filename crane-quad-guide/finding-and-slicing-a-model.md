@@ -33,17 +33,19 @@ Depending on your slicers capabilities, you may be able to assign color to each 
 
 ## **Voxelizer: A most capable color mixing slicer**
 
-As we pioneer color mixing technology, we rely on other services and software to rise to the challange and innovate along side us. One of the more reliable and easiest to use slicer for color mixing out ther is Voxelizer. They offer a free trial period as well as very reasonable subscruption fees. It's by far the best slicer for the job of color mixing there is currently. We reccomned downloading Voxelizer and experimenting with the slicer to experience it for yourself. 
+As we pioneer color mixing technology, we rely on other services and software to rise to the challenge and innovate along side us. One of the more reliable and easiest to use slicer for color mixing out there is Voxelizer. They offer a free trial period as well as very reasonable subscription fees. Voxelizer is by far the best slicer for the job of color mixing there is currently. We recommend downloading Voxelizer and experimenting with the slicer to experience it for yourself. 
 
 {% embed url="https://voxelizer.com/" %}
 
-When you download and set up your Voxelizer account you will see that our M3D Crane Seris printers already have a printer profile. 
+When you download and set up your Voxelizer account you will see that our M3D Crane Series printers already have a printer profile. 
 
 ![](../.gitbook/assets/set-up.PNG)
 
 ![](../.gitbook/assets/set-up2.PNG)
 
-You can choose from each of the three Crane Series models, and those profiles will automatically contain the standard settings for each of the Crane Series printers, so you will not have to go through each setting yourself. 
+You can choose from each of the three Crane Series models, and those profiles will automatically contain the standard settings for each of the Crane Series printers, so you will not have to go through each setting setting manually. From these preset printer profiles you'll be able to explore the slicer on your own by adjusting or customizing the presets, adding and assigning color to your model, and even creating custom color blends, and filament profiles. 
+
+Voxelizer is an extremely powerful tool. The information covered here hardly scratches the surface of what all you can accomplish with it. As our user base grows, and more and more start to utilize this powerful new color printing tool we'll all gain by a sharing of information, the swapping of tips and tricks as well as more basic tutorials. 
 
 We have some User Submitted videos on Voxelizer here:
 
