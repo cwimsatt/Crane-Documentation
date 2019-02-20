@@ -133,17 +133,17 @@ Once your Spool Holder is fully assembled simply slip the T-nuts into the grove 
 
 ## Crane Quad Spool Holder:
 
-As stated above, the first few Crane Quad's did come with a rather flimsy 3D printed spool holder, wich was designed to hold all 4 of the smaller CMYK filament spools. This design has been upgraded but the 3D printed spool holder is NO LONGER included with the printer. We DO have the STL file for the updated spool holder design however, you may download the STL, slice it, and print it to your own specifications.
+As stated above, the first few Crane Quad's did come with a 3D printed spool holder, which was designed to hold all 4 of the smaller CMYK filament spools. This design has been upgraded but the 3D printed spool holder is **NO LONGER** included in the box with the printer. We **DO** have the **STL file** for the updated spool holder design. We suggest you download the STL, slice it, and print it to your own specifications.
 
-This new Spool Holder design is much more simple. It's a SINGLE small spool holder, which is meant to slip into the groove in the top rail of your Crane Series printer. You can print just one, however we do recommend you print up to 4. Having the Spool Holders as singles allows for more mobility, you can now move each spool holder along the axis so as to help control the filament's path to the Quad print head.  
+This new Spool Holder design is much more simple. It's a **SINGLE** small spool holder, which is meant to slip into the back facing groove in the top rail of your Crane Series printer. You can print just one, however we do recommend you print up to 4. Having the Spool Holders as singles allows for more mobility, you can now move each spool holder along the axis so as to help control the filament's path to the Quad print head.  
 
 ![Single Small Spool Holder](../.gitbook/assets/sphimage.PNG)
 
-It is not necessary to print the Spool Holder using CMYK filament, in fact it's recommended you use the spool holder as one of your first "test prints". This will allow you to accurately calibrate your machine, make sure it's level and is printing properly using a filament you are most comfortable with such as a generic PLA for example. 
+**It is not necessary to print the Spool Holder using CMYK filament**, in fact it's recommended you use the spool holder as one of your first "test prints". This will allow you to accurately calibrate your machine, make sure it's level and is printing properly using a filament you are most comfortable with such as a generic PLA for example. 
 
 You can download the STL file to print this Spool Holder here:
 
-{% file src="../.gitbook/assets/078802\_b1\_crane\_spool\_holder-1.stl" %}
+{% file src="../.gitbook/assets/078802\_b1\_crane\_spool\_holder-1.stl" caption="Crane Quad Single Small Spool Holder " %}
 
 ## Endstop Damage:
 
