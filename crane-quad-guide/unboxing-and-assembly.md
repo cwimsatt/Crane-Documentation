@@ -141,6 +141,8 @@ This new Spool Holder design is much more simple. It's a SINGLE small spool hold
 
 It is not necessary to print the Spool Holder using CMYK filament, in fact it's recommended you use the spool holder as one of your first "test prints". This will allow you to accurately calibrate your machine, make sure it's level and is printing properly using a filament you are most comfortable with such as a generic PLA for example. 
 
+You can download the STL file to print this Spool Holder here:
+
 {% file src="../.gitbook/assets/078802\_b1\_crane\_spool\_holder-1.stl" %}
 
 ## Endstop Damage:
