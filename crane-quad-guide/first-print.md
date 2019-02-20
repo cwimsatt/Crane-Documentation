@@ -46,6 +46,14 @@ Clicking on the Print Status tab will open a Print Control screen where you can 
 It's recommended that you do not make any changes without first doing further reading so as to not inadvertently cause damage to the print OR your M3D Crane Series Printer.   
 {% endhint %}
 
+## Printing Your Spool Holder:
+
+As stated in the first section of this Guide, the Crane Quad no longer comes with the 3D printed spool holder in the box. We do provide the STL file of the updated single spool holder in the Unboxing/Assembly section and it's been included here as well. Because the Spool Holder is a single, it's much smaller and a fairly easy print to experiment with. This print will help you get to know your printer and help you calibrate it. You can download the STL here:
+
+{% file src="../.gitbook/assets/078802\_b1\_crane\_spool\_holder-1.stl" caption="Crane Quad Single Spool Holder" %}
+
+ You **DO NOT** need to use CMYK filament in order to print with your Crane Quad, unless you're wishing to use it's color mixing function. For calibration or test prints it is suggested you use a filament you are most comfortable with. 
+
 Congratulations on your first print with your new M3D Crane Quad printer!! The possibilities are seemingly endless with the M3D Crane Quad, not only will you experience exceptional print quality but you can now do so in stunning, vivid color! You can now experiment with a variety of different colors and materials which will open even greater avenues of creativity and expression.
 
 Feel free to contribute to our ever expanding catalog of user submissions to share your knowledge and experience with the M3D Crane Quad color mixing print head as we continue to grow together as a 3D printing community by following the [Community Submissions and Attributions](https://crane.printm3d.com/community-submissions-attributions/community-submissions) section of this guide. Also don't forget to check out the Advanced Tuning for M3D Crane Series section of this guide for more information.
