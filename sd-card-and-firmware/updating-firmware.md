@@ -30,8 +30,8 @@ Our firmware updates, courtesy of user dc42 can be found here: [https://github.c
 
 | Version  | Description  | Author  |
 | :--- | :--- | :--- |
-| 2.02RC5 | [System Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetMaestroFirmware.bin) | dc42 |
-| 1.22.5 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02RC5/DuetWebControl-1.22.5.zip) | dc42 |
+| 2.03 beta 2 | [System Firmware](https://github.com/dc42/RepRapFirmware/releases/download/2.03beta2/DuetMaestroFirmware.bin) | dc42 |
+| 1.22.6 | [Duet Web Control](https://github.com/dc42/RepRapFirmware/releases/download/2.02/DuetWebControl-1.22.6.zip) | dc42 |
 
 ## Updating System Firmware
 
