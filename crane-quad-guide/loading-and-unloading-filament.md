@@ -73,3 +73,11 @@ Once you have determined the most likely location of the source of the stalling,
 Turning Off your machine: ****There are no special considerations for turning off your QuadFusion. However, keep in mind that filament should not be above temperature without motion for longer than 5 minutes, with the exception of PETG; which can handle being held at temperature in the QuadFusion for at least one day. PLA readily degrades.
 {% endhint %}
 
+## Operating Notes:
+
+While you DO need to use your CMYK filament in order to produce the color mixes it is NOT necessary when you're just wishing to do single color prints. In order to operate your Crane Quad printer with any less than 4 filaments you will need to have at least 30 mm of filament loaded into each of the unused ports. 
+
+The Crane Quad is designed as a 4 filament, color mixing print head. It needs filament in each of it's ports to prevent back flow. This does not mean that  you can not use the Crane Quad for single color or single filament prints. Simply adjust your setting appropriately when you slice your model, and make sure your Quad print head is loaded properly in that there is filament in all 4 ports, regardless if  you intend to utilize each of them or not. 
+
+
+
