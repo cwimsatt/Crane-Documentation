@@ -102,34 +102,31 @@ Should you notice your x bracket, the plate attaching the print head to the x ax
 
 Should your x bracket appear warped or bent, please be sure to check that the eccentric nuts are not too tight. It should be secure enough so that then print head doesn't move around during printing about 1/16-1/12th turn extra past this point on the eccentric nuts should be sufficient any tighter could result in the appearance of warping or bending of the x bracket. Loosing these eccentric nuts should remedy this.
 
-## Spool Holder:
+## Crane Spool Holder:
 
-The M3D Crane Dual includes 2 spool holders. One is a 3D printed Spool Holder, designed to hold the 4 smaller spools of 3DInk Filament necessary to take full advantage of it's dual color/material capabilities and the other Spool Holder included is better suited to hold the larger spools of 3DInk Filament. Here we show how to assemble the larger of the spool holders. 
+This new Spool Holder design is much more simple. It's a **SINGLE** small spool holder, which is meant to slip into the back facing groove in the top rail of your M3D Crane Series printer. You can print just one, however we do recommend you print up to 4. Having the Spool Holders as singles allows for more mobility, you can now move each spool holder along the axis so as to help control the filament's path to the Dual print head.  
 
-![Spool Holder for larger spools of 3DInk Filament](../.gitbook/assets/spool5.jpg)
+#### Spool Holder 2.1
 
-The Spool Holder is comprised of the following parts:
+![Spool Holder 2.1](../.gitbook/assets/sphimage.PNG)
 
-* 2 T-nuts
-* Mounting Bracket
-* Spool Mount Spindle
-* 2 End Caps
+There is the original Spool Holder design meant to hold up to 4 Micro Spools. 
 
-![Spool Holder components ](../.gitbook/assets/spool1.jpg)
+#### Spool Holder 1.0
 
-To assemble the Spool Holder screw the T-nuts into the holes at the bottom of the Mounting Bracket. Be sure to leave them fairly loose as you will tighten them firmly once the Mounting Bracket has been attached to the top rail of your M3D Crane Dual printer. 
+![Spool Holder 1.0](../.gitbook/assets/crane-spool-holder-1-0.png)
 
-![T-nuts in place at the bottom of the Mounting Bracket](../.gitbook/assets/spool2.jpg)
+#### **Additional Information:**
 
-Once the T-nuts are in place, slip one end of the Spool Mount Spindle through the large hole in the top of the Mounting Bracket and secure with an End Cap. 
+**It is not necessary to print the Spool Holder using CMYK filament**, in fact it's recommended you use the spool holder as one of your first "test prints". This will allow you to accurately calibrate your machine, make sure it's level and is printing properly using a filament you are most comfortable with such as a generic PLA for example. 
 
-![End Cap in place to secure Spindle to Mounting Bracket](../.gitbook/assets/spool3.jpg)
+You can also download [both Crane Spool Holder STL files](https://coda.io/d/M3D-Official-Troubleshooting-Self-Help-Guide_dzE73kMbIAL/All-Printable-STL-Files_sugSV#_lusb9).
 
-The Spool Holder is designed so that the End Cap secures the spool and prevents it from slipping off the Spool Mount Spindle while in use. When not in use it's advised to keep the End Cap secured to the Spool Mount Spindle to prevent it from becoming lost or misplaced. 
+{% hint style="info" %}
+As stated above, the first few M3D Crane printers did come with a 3D printed spool holder, which was designed to hold all 4 of the smaller CMYK filament spools. This design has been upgraded but the 3D printed spool holder is **NO LONGER** included in the box with the printer. We **DO** have the **STL file** for the updated spool holder design. We suggest you download the STL, slice it, and print it to your own specifications.
+{% endhint %}
 
-![Fully Assembled Spool Holder](../.gitbook/assets/spool4.jpg)
 
-Once your Spool Holder is fully assembled simply slip the T-nuts into the grove on the top rail of your M3D Crane Dual printer and tighten securely.
 
 ## Endstop Damage:
 

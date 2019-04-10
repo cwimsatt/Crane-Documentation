@@ -136,6 +136,8 @@ Once your Spool Holder is fully assembled simply slip the T-nuts into the grove 
 Prior to exiting this section, please double check all connections, and place your crane on a flat surface. Ensure the Power Switch is Off\(O\), double check that your voltage is set appropriately for YOUR area\(consult local authorities if you are unsure\). **Failure to do this can irreparably harm the electronics in your printer.**
 {% endhint %}
 
+## Finished M3D Crane Bowden:
+
 Once your M3D Crane Bowden is complete it should look like this:
 
 ![](../.gitbook/assets/image%20%2813%29.png)
