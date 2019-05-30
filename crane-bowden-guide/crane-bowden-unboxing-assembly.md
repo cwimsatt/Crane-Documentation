@@ -105,7 +105,8 @@ Should your x bracket appear warped or bent, please be sure to check that the ec
 ## Rubber Feet:
 
 If your Crane is shipped without the feet assembled, please follow this videio instruction guide
-https://photos.app.goo.gl/GswVwPuHoBw8vemBA
+
+{% embed url="https://photos.app.goo.gl/GswVwPuHoBw8vemBA" %}
 
 ## Spool Holder:
 
