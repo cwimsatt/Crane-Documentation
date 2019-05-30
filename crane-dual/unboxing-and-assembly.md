@@ -102,6 +102,12 @@ Should you notice your x bracket, the plate attaching the print head to the x ax
 
 Should your x bracket appear warped or bent, please be sure to check that the eccentric nuts are not too tight. It should be secure enough so that then print head doesn't move around during printing about 1/16-1/12th turn extra past this point on the eccentric nuts should be sufficient any tighter could result in the appearance of warping or bending of the x bracket. Loosing these eccentric nuts should remedy this.
 
+## Rubber Feet:
+
+If your Crane is shipped without the feet assembled, please follow this videio instruction guide
+
+{% embed url="https://photos.app.goo.gl/GswVwPuHoBw8vemBA" %}
+
 ## Crane Spool Holder:
 
 This new Spool Holder design is much more simple. It's a **SINGLE** small spool holder, which is meant to slip into the back facing groove in the top rail of your M3D Crane Series printer. You can print just one, however we do recommend you print up to 4. Having the Spool Holders as singles allows for more mobility, you can now move each spool holder along the axis so as to help control the filament's path to the Dual print head.  
