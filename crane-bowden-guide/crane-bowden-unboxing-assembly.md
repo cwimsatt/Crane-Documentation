@@ -102,6 +102,10 @@ Should you notice your x bracket, the plate attaching the print head to the x ax
 
 Should your x bracket appear warped or bent, please be sure to check that the eccentric nuts are not too tight. It should be secure enough so that then print head doesn't move around during printing about 1/16-1/12th turn extra past this point on the eccentric nuts should be sufficient any tighter could result in the appearance of warping or bending of the x bracket. Loosing these eccentric nuts should remedy this.  
 
+## Rubber Feet:
+
+If your Crane is shipped without the feet assembled, please follow this videio instruction guide
+https://photos.app.goo.gl/GswVwPuHoBw8vemBA
 
 ## Spool Holder:
 
