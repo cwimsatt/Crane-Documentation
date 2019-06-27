@@ -6,6 +6,8 @@ description: Information on your M3D Crane Series printer.
 
 Welcome and thank you for choosing the M3D Crane series of printers! This is the getting started / quick-start guide for the Crane Series 3D Printer. First select the Model style of M3D Crane you have purchased and you will be directed to the Quick Start Guide that matches your new printer.
 
+NEW - July 2019 WalkThrough / Crash Course: For users setting up their quad head for the first time and looking to gain a deep understanding of the system to get the best results, start [here](https://coda.io/d/M3D-Official-Troubleshooting-Self-Help-Guide_dzE73kMbIAL/Quad-Expert-Crash-Course_sudLH#_luBEE).
+
 For troubleshooting please visit the [Self-help guide](https://coda.io/d/M3D-Public-Coda-Self-Help-Support_dzE73kMbIAL/Crane-Troubleshooting_suMmY#_lu4jO)
 
 | \*\*\*\*[**The Crane Bowden**](https://crane.printm3d.com/crane-bowden-guide/crane-bowden-unboxing-assembly)\*\*\*\* | [**The Crane Dual**](https://crane.printm3d.com/crane-dual/unboxing-and-assembly)\*\*\*\* | \*\*\*\*[**The Crane Quad**](https://crane.printm3d.com/crane-quad-guide/unboxing-and-assembly)\*\*\*\* |
