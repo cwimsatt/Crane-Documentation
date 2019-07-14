@@ -72,7 +72,7 @@ The first step to moving your Z-endstop to an appropriate height is to examine t
 
 ![8-10 threads exposed](../.gitbook/assets/image3.jpg)
 
-Next you will need to manually center the print head over the bed. To do this gently move the print head left-to-right along the X-axis until it's in the center. Then, move the bed forward along the Y-axis until its center. At this point, the print head should be above the center of the bed. Finally, rotate the coupler between the Z-motor and the Z-leadscrew counter-clockwise until the left bracket of the X-axis is resting on top of the Z-endstop switch as seen in the photo.
+Next you will need to manually center the print head over the bed. To do this gently move the print head left-to-right along the X-axis until it's in the center. Then, move the bed forward along the Y-axis until its center. At this point, the print head should be above the center of the bed. [Note: there are notes elsewhere (e.g. see below) that the power should be on when moving the print head.  Is this information to keep the power off correct?  If so, please elaborate/explain the different requirements for the power setting] Finally, rotate the coupler between the Z-motor and the Z-leadscrew counter-clockwise until the left bracket of the X-axis is resting on top of the Z-endstop switch as seen in the photo.
 
 ![Rotate the Coupler between the Z-motor and the Z-leadscrew ](../.gitbook/assets/image4.jpg)
 
